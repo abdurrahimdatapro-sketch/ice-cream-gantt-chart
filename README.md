@@ -57,7 +57,7 @@ ice-cream-gantt-chart/
 
 ## Interactive Visualization
 
-**Tableau Public:** [ADD_YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/app/profile/abdur.rahim5381/viz/IceCreamGranttChart/Sheet1)
+**Tableau Public:** [View Interactive Gantt Chart](https://public.tableau.com/app/profile/abdur.rahim5381/viz/IceCreamGranttChart/Sheet1)
 
 ## Project Type
 
